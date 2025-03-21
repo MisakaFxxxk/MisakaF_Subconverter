@@ -77,8 +77,6 @@ DOMAIN-SUFFIX,shuipo.lol
 DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,emby77.cf
 DOMAIN-SUFFIX,embyplus.org
-IP-CIDR,188.172.228.49/32
-IP-CIDR,202.61.255.248/32
 DOMAIN-SUFFIX,embytv.cf
 DOMAIN-SUFFIX,zox.show
 DOMAIN-SUFFIX,acemby.org
@@ -128,3 +126,5 @@ DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
+IP-CIDR,188.172.228.49/32,no-resolve
+IP-CIDR,202.61.255.248/32,no-resolve
